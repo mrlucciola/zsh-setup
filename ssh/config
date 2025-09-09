@@ -1,0 +1,6 @@
+Host github.com
+  AddKeysToAgent yes
+  # If you chose not to add a passphrase to your key, you should omit the UseKeychain line.
+  # UseKeychain yes
+  IgnoreUnknown UseKeychain
+  IdentityFile ~/.ssh/id_ed25519
