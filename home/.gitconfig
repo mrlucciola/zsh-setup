@@ -1,0 +1,17 @@
+[user]
+	name = mrlucciola
+	email = 47836741+mrlucciola@users.noreply.github.com
+	signingkey = 3A780E4A22484049EA225C76401472572D9288CD
+[oh-my-zsh]
+	hide-status = 1
+	hide-dirty = 1
+[commit]
+	gpgsign = true
+[core]
+	editor = nano
+[gpg]
+	program = gpg
+[push]
+	autoSetupRemote = true
+[init]
+	defaultBranch = main
